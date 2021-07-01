@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/GlobantTalentPool.iml" filepath="$PROJECT_DIR$/.idea/GlobantTalentPool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../abi-cne-mo_services/.idea/abi-cne-mo_services.iml" filepath="$PROJECT_DIR$/../abi-cne-mo_services/.idea/abi-cne-mo_services.iml" />
     </modules>
   </component>
 </project>
